@@ -29,11 +29,15 @@ Data are provided as Excel files, while accompanying MATLAB scripts (.m) allow r
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this code and data, provided that proper attribution is given to the authors.  
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**.  
+Noncommercial use, modification, and distribution are permitted under the applicable license terms, including their attribution and notice requirements.  
 
 ---
 
 ## 📚 Citation
 If you use this dataset or code, please cite:  
-**Authors**, *Solid-State Optical Magnetometer: A Next-Generation Approach to Sub-Nanotesla Magnetic Sensing*, (Year).  
+**Authors**, *Solid-State Optical Magnetometer: A Next-Generation Approach to Sub-Nanotesla Magnetic Sensing*, (Year).
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
